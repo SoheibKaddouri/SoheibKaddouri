@@ -1,5 +1,5 @@
 # Hi, I'm Soheib Kaddouri 👋
-### Software Engineer | Backend & Systems Design Specialist
+### Software Engineer 
 
 Passionate about building highly optimized, enterprise-ready systems, clean APIs, and precise algorithmic solutions. This profile serves as a decentralized software library, organized into distinct engineering pillars to showcase production-grade development patterns.
 
