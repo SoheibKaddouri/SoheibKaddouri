@@ -18,8 +18,8 @@ An isolated library dedicated to housing foundational data structures, mathemati
 
 ### 🗄️ 4. [Databases & Data Infrastructure](https://github.com/SoheibKaddouri/databases)
 A dedicated pillar for relational modeling, distributed storage engines, query optimization, indexing strategies, and hands‑on implementations across SQL, NoSQL, and modern cloud‑native data systems.
----
 
+---
 ## 📬 Connect With Me
 * **GitHub Profile:** [Soheib Kaddouri](https://github.com/SoheibKaddouri)
 * *Feel free to explore any of the core portfolio directories linked above to review underlying code patterns, structural design practices, or deployment workflows.*
