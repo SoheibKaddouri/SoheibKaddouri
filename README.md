@@ -16,6 +16,8 @@ A structured portfolio repository hosting modular consumer applications, respons
 ### 🧮 3. [Advanced Computer Science & Algorithms](https://github.com/SoheibKaddouri/algorithms)
 An isolated library dedicated to housing foundational data structures, mathematical proofs, and space-state search solutions.
 
+### 🗄️ 4. [Databases & Data Infrastructure](https://github.com/SoheibKaddouri/databases)
+A dedicated pillar for relational modeling, distributed storage engines, query optimization, indexing strategies, and hands‑on implementations across SQL, NoSQL, and modern cloud‑native data systems.
 ---
 
 ## 📬 Connect With Me
